@@ -1,4 +1,4 @@
-package Aula08;
+package ultimateemojifight;
 
 public class Lutador {
     // Atributos

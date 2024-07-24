@@ -1,4 +1,4 @@
-package Aula08;
+package ultimateemojifight;
 
 import java.util.Objects;
 import java.util.Random;
